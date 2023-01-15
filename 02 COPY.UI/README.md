@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# 01 COPY.UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mockup UI  for following design 
 
-## Available Scripts
-
-In the project directory, you can run:
+[Copyui](./COPYUI.png)
 
 ### `npm start`
 
